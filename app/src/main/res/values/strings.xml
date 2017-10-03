@@ -1,0 +1,30 @@
+<resources>
+    <string name="prefKey">User Type</string>
+    <string name="app_name">MyDoctorApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="prefType">User Type</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_password">Enter You Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_sign_first">Don\'t Have Any account?</string>
+    <string name="not_sign_second">Sign Up Here</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="user_Not_found">User Not Found</string>
+    <string name="account_creation_succesful">Account Creation was Successfull</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up Now</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="password_error">Too Short Password</string>
+    <string name="password_not_matches">Password Does not Match</string>
+    <string name="member_type_not_selected">Member type not selected</string>
+    <string name="auth_failed">Authentication Failed</string>
+
+    <string-array name="member_type">
+        <item>Student</item>
+        <item>Company</item>
+    </string-array>
+
+</resources>
